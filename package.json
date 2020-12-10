@@ -1,0 +1,34 @@
+{
+  "name": "map-chile-using-react-simple-maps",
+  "version": "1.0.0",
+  "description": "The component Map receives the json to be rendered, in this case Chile. Use react-simple-maps and react-tooltip",
+  "keywords": [
+    "react",
+    "react-simple-maps",
+    "maps"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "prop-types": "15.7.2",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-scripts": "3.0.1",
+    "react-simple-maps": "0.12.1",
+    "react-tooltip": "3.10.0"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
